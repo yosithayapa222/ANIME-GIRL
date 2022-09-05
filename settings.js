@@ -29,14 +29,14 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.vcardowner = ['+94759677097 number
+global.ownername = "😎Yositha"//name
+global.ytname = ""// yt chanel name
+global.socialm = "GitHub: yosithayapa222" //insta or git name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `data:image/png;base64,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` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -47,16 +47,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94759677097']
+global.ownertag = '+94759677097' //your tag number
+global.botname = 'T╺ REX- 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "T-REX" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ TREX-BOT-MD]'//
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94759677097'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
